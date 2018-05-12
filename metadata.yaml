@@ -1,0 +1,35 @@
+_repo: Dodo-Volumes-1-and-2A-Detail-of-the-Day_44486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward F. (Edward Frederic)
+    - Benson, Edward Frederic
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2013-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Upper class -- England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Unrequited love -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: 'Dodo: A Detail of the Day. Volumes 1 and 2'
+url: http://www.gutenberg.org/ebooks/44486
